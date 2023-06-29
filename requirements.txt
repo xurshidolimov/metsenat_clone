@@ -1,6 +1,6 @@
 ﻿celery==5.2.7
 dj-rest-auth==4.0.0
-Django==4.1.7
+Django
 django-filter==22.1
 djangorestframework==3.14.0
 drf-yasg==1.21.5
